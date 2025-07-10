@@ -1,4 +1,4 @@
-# 新加坡VPN | 7月4日21.7M/S|免费V2ray/SSR/Clash/Shadowrocket节点机场链接  更新时间 2025-07-04 15:09:48
+# 新加坡VPN | 7月10日20.5M/S|免费SSR/V2ray/Clash/Shadowrocket节点机场链接  更新时间 2025-07-10 09:42:55
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://vpnsingapore.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### Clash订阅链接
 
-- https://vpnsingapore.github.io/uploads/2025/07/0-20250704.yaml
-- https://vpnsingapore.github.io/uploads/2025/07/1-20250704.yaml
-- https://vpnsingapore.github.io/uploads/2025/07/2-20250704.yaml
-- https://vpnsingapore.github.io/uploads/2025/07/3-20250704.yaml
-- https://vpnsingapore.github.io/uploads/2025/07/4-20250704.yaml
+- https://vpnsingapore.github.io/uploads/2025/07/0-20250710.yaml
+- https://vpnsingapore.github.io/uploads/2025/07/1-20250710.yaml
+- https://vpnsingapore.github.io/uploads/2025/07/2-20250710.yaml
+- https://vpnsingapore.github.io/uploads/2025/07/3-20250710.yaml
+- https://vpnsingapore.github.io/uploads/2025/07/4-20250710.yaml
 
 ### V2ray订阅链接
 
-- https://vpnsingapore.github.io/uploads/2025/07/0-20250704.txt
-- https://vpnsingapore.github.io/uploads/2025/07/1-20250704.txt
-- https://vpnsingapore.github.io/uploads/2025/07/2-20250704.txt
-- https://vpnsingapore.github.io/uploads/2025/07/3-20250704.txt
-- https://vpnsingapore.github.io/uploads/2025/07/4-20250704.txt
+- https://vpnsingapore.github.io/uploads/2025/07/0-20250710.txt
+- https://vpnsingapore.github.io/uploads/2025/07/1-20250710.txt
+- https://vpnsingapore.github.io/uploads/2025/07/2-20250710.txt
+- https://vpnsingapore.github.io/uploads/2025/07/3-20250710.txt
+- https://vpnsingapore.github.io/uploads/2025/07/4-20250710.txt
 
 ### Sing-box订阅链接
 
-- https://vpnsingapore.github.io/uploads/2025/07/20250704.json
+- https://vpnsingapore.github.io/uploads/2025/07/20250710.json
 
 ## 更多clash节点订阅 ：
 
